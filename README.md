@@ -13,7 +13,7 @@ Um clone da página de pre-login do Instagram para fins de estudos em HTML e CSS
 - [React](https://reactjs.org/ "ReactJS")
 - [Typescript](https://www.typescriptlang.org/)
 
-### :computer: Bibliotecas e ferramentas:
+## :computer: Bibliotecas e ferramentas:
 - [Styled Components](https://styled-components.com/)
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://eslint.org/)
