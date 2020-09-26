@@ -1,44 +1,40 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">React Start Page Instagram</h2>
 
-## Available Scripts
+Um clone da página de pre-login do Instagram para fins de estudos em HTML e CSS, elaborado para entrega de projeto do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-In the project directory, you can run:
+### :globe_with_meridians: Demonstração
+- [Link para a demonstração.](https://julio-nery-start-page-instagram.netlify.app/)
 
-### `yarn start`
+![](https://github.com/julionery/docs/blob/master/geral/react-start-page-instagram.png?raw=true)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :rocket: Tecnologias:
+- HTML
+- CSS
+- [React](https://reactjs.org/ "ReactJS")
+- [Typescript](https://www.typescriptlang.org/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### :computer: Bibliotecas e ferramentas:
+- [Styled Components](https://styled-components.com/)
+- [EditorConfig](https://editorconfig.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-### `yarn test`
+## :link: Como contribuir
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Faça um **fork** do projeto;
+- Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+- Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
+- Envie as suas alterações: `git push origin my-feature`
 
-### `yarn build`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4 align="center">
+    Feito com ❤ por <a href="https://www.linkedin.com/in/julio-nery/" target="_blank">Júlio Nery</a>!
+    <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+</h4>
